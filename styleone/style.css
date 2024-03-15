@@ -1,4 +1,17 @@
 ul {
     text-align: center;
     text-decoration: none;
+    text-emphasis: none;
+}
+
+.birincibaslik {
+    background-color: darkslategray;
+}
+
+.ikincibaslik {
+    background-color: darkslategray;
+}
+
+.ücüncübaslik {
+    background-color: darkslategray;
 }
